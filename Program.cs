@@ -37,7 +37,7 @@ namespace A1TicketingSystem
             // Exit program.
             else
             {
-                Console.WriteLine("Closing program...");
+                Console.WriteLine("Closing program....");
             }
         }
 
