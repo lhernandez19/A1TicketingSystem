@@ -1,0 +1,15 @@
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A1TicketingSystem/bin/Debug/net5.0/A1TicketingSystem.deps.json
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A1TicketingSystem/bin/Debug/net5.0/A1TicketingSystem.runtimeconfig.json
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A1TicketingSystem/bin/Debug/net5.0/A1TicketingSystem.runtimeconfig.dev.json
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A1TicketingSystem/bin/Debug/net5.0/A1TicketingSystem.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A1TicketingSystem/bin/Debug/net5.0/ref/A1TicketingSystem.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A1TicketingSystem/bin/Debug/net5.0/A1TicketingSystem.pdb
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A1TicketingSystem/obj/Debug/net5.0/A1TicketingSystem.csprojAssemblyReference.cache
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A1TicketingSystem/obj/Debug/net5.0/A1TicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A1TicketingSystem/obj/Debug/net5.0/A1TicketingSystem.AssemblyInfoInputs.cache
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A1TicketingSystem/obj/Debug/net5.0/A1TicketingSystem.AssemblyInfo.cs
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A1TicketingSystem/obj/Debug/net5.0/A1TicketingSystem.csproj.CoreCompileInputs.cache
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A1TicketingSystem/obj/Debug/net5.0/A1TicketingSystem.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A1TicketingSystem/obj/Debug/net5.0/ref/A1TicketingSystem.dll
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A1TicketingSystem/obj/Debug/net5.0/A1TicketingSystem.pdb
+/Users/luisdiego/Documents/WCTC/SpringTerm1/Net Database/A1TicketingSystem/obj/Debug/net5.0/A1TicketingSystem.genruntimeconfig.cache
