@@ -12,7 +12,6 @@ namespace A1TicketingSystem
         string choice;
         string file = "Tickets.csv";
 
-        // Watching();
         do 
         {
             Questions();
@@ -127,7 +126,6 @@ namespace A1TicketingSystem
                 if (resp != "Y") { break; }
             }
             sw.Close();
-
 
         }
 
